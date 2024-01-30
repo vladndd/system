@@ -1,0 +1,1 @@
+gcc -Wall -o nom_du_fichier_objet  -c nom_du_fichier_source_C
